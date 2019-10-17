@@ -1,3 +1,3 @@
 # Calculator
 Simple calculator
-which performs different operation
+which performs different operation.
